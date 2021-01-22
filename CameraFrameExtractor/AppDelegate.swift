@@ -2,8 +2,6 @@
 //  AppDelegate.swift
 //  CameraFrameExtractor
 //
-//  Created by Anand Nigam on 11/10/18.
-//  Copyright © 2018 Anand Nigam. All rights reserved.
 //
 
 import UIKit
